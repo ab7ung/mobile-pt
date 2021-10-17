@@ -1,13 +1,10 @@
 # mobile-pt
 
-### Some good references from github repos.
+### Some good references from github repos. Apologies for not mentioning everyone whose repos, I have used here.
 
-
-### Apologies for not mentioning everyone whose repos, I have used here.
-
-
-
-
+#
+#
+#
 ## Mobile Application Penetration Testing Cheat Sheet
 
 
